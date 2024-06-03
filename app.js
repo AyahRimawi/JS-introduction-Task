@@ -41,7 +41,6 @@ console.log(p);
 document.write('Math.pow(x,2) = ' + p + '<br>'+ '<br>'+ '<br>'+ '<br>'+ '<br>');
 
 
-
 let a = prompt("Read a number");
 a = parseInt(a);
 alert(a);
